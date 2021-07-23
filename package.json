@@ -1,0 +1,45 @@
+{
+ "uni-app": {
+  "scripts": {
+   "MP-WEXIIN-A": {
+    "title": "微信小程序-dev",
+    "env": {
+     "UNI_PLATFORM": "mp-weixin",
+     "VUE_APP_ENV_CODE": "dev",
+     "VUE_APP_BASE_API": "https://dev-cloud-stall-api.haier-ioc.com",
+     "VUE_APP_FILE_API": "https://dev-cloud-services.haier-ioc.com",
+     "VUE_APP_OBS_FILE_API": "https://yswl-cloud-stall.obs.cn-north-4.myhuaweicloud.com/"
+    },
+    "define": {
+     "MP-WEXIIN": true
+    }
+   },
+   "MP-WEXIIN-B": {
+    "title": "微信小程序-test",
+    "env": {
+     "UNI_PLATFORM": "mp-weixin",
+     "VUE_APP_ENV_CODE": "test",
+     "VUE_APP_BASE_API": "https://dev-cloud-stall-api.haier-ioc.com",
+     "VUE_APP_FILE_API": "https://dev-cloud-stall-api.haier-ioc.com",
+     "VUE_APP_OBS_FILE_API": "https://yswl-cloud-stall.obs.cn-north-4.myhuaweicloud.com/"
+    },
+    "define": {
+     "MP-WEXIIN": true
+    }
+   },
+   "MP-WEXIIN-C": {
+    "title": "微信小程序-prod",
+    "env": {
+     "UNI_PLATFORM": "mp-weixin",
+     "VUE_APP_ENV_CODE": "prod",
+     "VUE_APP_BASE_API": "https://dycloud.haier-ioc.com",
+     "VUE_APP_FILE_API": "https://dycloud.haier-ioc.com",
+     "VUE_APP_OBS_FILE_API": "https://dyi.haier-ioc.com/"
+    },
+    "define": {
+     "MP-WEXIIN": true
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 2511074 */
+  src: url('//at.alicdn.com/t/font_2511074_ki903j125bh.woff2?t=1626920156402') format('woff2'),
+       url('//at.alicdn.com/t/font_2511074_ki903j125bh.woff?t=1626920156402') format('woff'),
+       url('//at.alicdn.com/t/font_2511074_ki903j125bh.ttf?t=1626920156402') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconicon_search_the_mall1:before {
+  content: "\e62a";
+}
+
+.iconicon_address:before {
+  content: "\e608";
+}
+
+.iconicon_evaluation:before {
+  content: "\e609";
+}
+
+.iconicon_collected:before {
+  content: "\e60a";
+}
+
+.iconicon_after_sale:before {
+  content: "\e60b";
+}
+
+.iconicon_comment:before {
+  content: "\e60c";
+}
+
+.iconicon_fill_alipay:before {
+  content: "\e60d";
+}
+
+.iconicon_delete:before {
+  content: "\e60e";
+}
+
+.iconicon_fill_classification_off:before {
+  content: "\e60f";
+}
+
+.iconicon_fill_classification_on:before {
+  content: "\e610";
+}
+
+.iconicon_fill_cloud_stall_off:before {
+  content: "\e611";
+}
+
+.iconicon_fill_cloud_stall_on:before {
+  content: "\e612";
+}
+
+.iconicon_fill_me_off:before {
+  content: "\e613";
+}
+
+.iconicon_fill_me_on:before {
+  content: "\e614";
+}
+
+.iconicon_line_arrow_back:before {
+  content: "\e615";
+}
+
+.iconicon_fire:before {
+  content: "\e616";
+}
+
+.iconicon_fill_home_off:before {
+  content: "\e617";
+}
+
+.iconicon_line_arrow_down:before {
+  content: "\e618";
+}
+
+.iconicon_fill_home_on:before {
+  content: "\e619";
+}
+
+.iconicon_line_arrow_top:before {
+  content: "\e61a";
+}
+
+.iconicon_fill_shopping_cart_off:before {
+  content: "\e61b";
+}
+
+.iconicon_fill_shopping_cart_on:before {
+  content: "\e61c";
+}
+
+.iconicon_line_arrow_forward:before {
+  content: "\e61d";
+}
+
+.iconicon_search_closed:before {
+  content: "\e61e";
+}
+
+.iconicon_pending_payment:before {
+  content: "\e61f";
+}
+
+.iconicon_fill_wechat:before {
+  content: "\e620";
+}
+
+.iconicon_positioning:before {
+  content: "\e621";
+}
+
+.iconicon_order:before {
+  content: "\e622";
+}
+
+.iconicon_positioning_xuanzhong:before {
+  content: "\e623";
+}
+
+.iconicon_search_the_mall:before {
+  content: "\e624";
+}
+
+.iconicon_to_be_delivered:before {
+  content: "\e625";
+}
+
+.iconicon_set_up:before {
+  content: "\e626";
+}
+
+.iconicon_to_be_received:before {
+  content: "\e627";
+}
+
+.iconicon_system_search:before {
+  content: "\e628";
+}
+
+.iconicon_system_message:before {
+  content: "\e629";
+}
+

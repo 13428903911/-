@@ -1,0 +1,254 @@
+{
+  "id": "2511074",
+  "name": "云档口小程序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21504227",
+      "name": "icon_search_the_mall",
+      "font_class": "icon_search_the_mall1",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "21504092",
+      "name": "icon_address",
+      "font_class": "icon_address",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "21504094",
+      "name": "icon_evaluation",
+      "font_class": "icon_evaluation",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "21504095",
+      "name": "icon_collected",
+      "font_class": "icon_collected",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "21504096",
+      "name": "icon_after_sale",
+      "font_class": "icon_after_sale",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "21504097",
+      "name": "icon_comment",
+      "font_class": "icon_comment",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "21504098",
+      "name": "icon_fill_alipay",
+      "font_class": "icon_fill_alipay",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "21504099",
+      "name": "icon_delete",
+      "font_class": "icon_delete",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "21504100",
+      "name": "icon_fill_classification_off",
+      "font_class": "icon_fill_classification_off",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "21504101",
+      "name": "icon_fill_classification_on",
+      "font_class": "icon_fill_classification_on",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "21504102",
+      "name": "icon_fill_cloud_stall_off",
+      "font_class": "icon_fill_cloud_stall_off",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "21504103",
+      "name": "icon_fill_cloud_stall_on",
+      "font_class": "icon_fill_cloud_stall_on",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21504104",
+      "name": "icon_fill_me_off",
+      "font_class": "icon_fill_me_off",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "21504105",
+      "name": "icon_fill_me_on",
+      "font_class": "icon_fill_me_on",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21504106",
+      "name": "icon_line_arrow_back",
+      "font_class": "icon_line_arrow_back",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "21504107",
+      "name": "icon_fire",
+      "font_class": "icon_fire",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "21504108",
+      "name": "icon_fill_home_off",
+      "font_class": "icon_fill_home_off",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "21504109",
+      "name": "icon_line_arrow_down",
+      "font_class": "icon_line_arrow_down",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21504110",
+      "name": "icon_fill_home_on",
+      "font_class": "icon_fill_home_on",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "21504111",
+      "name": "icon_line_arrow_top",
+      "font_class": "icon_line_arrow_top",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "21504112",
+      "name": "icon_fill_shopping_cart_off",
+      "font_class": "icon_fill_shopping_cart_off",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "21504113",
+      "name": "icon_fill_shopping_cart_on",
+      "font_class": "icon_fill_shopping_cart_on",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "21504114",
+      "name": "icon_line_arrow_forward",
+      "font_class": "icon_line_arrow_forward",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21504115",
+      "name": "icon_search_closed",
+      "font_class": "icon_search_closed",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21504116",
+      "name": "icon_pending_payment",
+      "font_class": "icon_pending_payment",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "21504117",
+      "name": "icon_fill_wechat",
+      "font_class": "icon_fill_wechat",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "21504118",
+      "name": "icon_positioning",
+      "font_class": "icon_positioning",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "21504119",
+      "name": "icon_order",
+      "font_class": "icon_order",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "21504120",
+      "name": "icon_positioning_选中",
+      "font_class": "icon_positioning_xuanzhong",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "21504121",
+      "name": "icon_search_the_mall",
+      "font_class": "icon_search_the_mall",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "21504122",
+      "name": "icon_to_be_delivered",
+      "font_class": "icon_to_be_delivered",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "21504123",
+      "name": "icon_set_up",
+      "font_class": "icon_set_up",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "21504124",
+      "name": "icon_to_be_received",
+      "font_class": "icon_to_be_received",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "21504125",
+      "name": "icon_system_search",
+      "font_class": "icon_system_search",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "21504126",
+      "name": "icon_system_message",
+      "font_class": "icon_system_message",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
